@@ -1,5 +1,8 @@
 "# Avaddov" 
 
+Full Stack Dev by day, YouTuber at night.
+Studied Web Development at Developers.Institute.
+Passionate Gamer and Content Creator.
 
 CODING LANGUAGES:
 
